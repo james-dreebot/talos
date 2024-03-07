@@ -11,7 +11,7 @@ require (
 	github.com/containerd/go-cni v1.1.9
 	github.com/cosi-project/runtime v0.4.0-alpha.9
 	github.com/dustin/go-humanize v1.0.1
-	github.com/emicklei/dot v1.6.0
+	github.com/emicklei/dot v1.6.1
 	github.com/evanphx/json-patch v5.9.0+incompatible
 	github.com/ghodss/yaml v1.0.0
 	github.com/hashicorp/go-multierror v1.1.1

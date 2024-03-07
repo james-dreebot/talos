@@ -48,7 +48,7 @@ require (
 	github.com/containerd/typeurl/v2 v2.1.1
 	github.com/containernetworking/cni v1.1.2
 	github.com/containernetworking/plugins v1.4.0
-	github.com/coredns/coredns v1.11.1
+	github.com/coredns/coredns v1.11.2
 	github.com/coreos/go-iptables v0.7.0
 	github.com/cosi-project/runtime v0.4.0-alpha.9
 	github.com/distribution/reference v0.5.0
@@ -67,7 +67,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.6.0
 	github.com/google/go-containerregistry v0.19.0
-	github.com/google/go-tpm v0.9.1-0.20230914180155-ee6cbcd136f8
+	github.com/google/go-tpm v0.9.1-0.20240222210053-08987cedf981
 	github.com/google/nftables v0.1.0
 	github.com/google/uuid v1.6.0
 	github.com/gopacket/gopacket v1.2.0
@@ -99,7 +99,7 @@ require (
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pin/tftp/v3 v3.1.0
 	github.com/pmorjan/kmod v1.1.1
-	github.com/prometheus/procfs v0.12.0
+	github.com/prometheus/procfs v0.13.0
 	github.com/rivo/tview v0.0.0-20240225120200-5605142ca62e
 	github.com/rs/xid v1.5.0
 	github.com/ryanuber/columnize v2.1.2+incompatible
